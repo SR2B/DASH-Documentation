@@ -53,10 +53,9 @@ When the part comes in, install it and return the empty cartridge to Brenda. We 
 
 ## Scanner Listings
 
-|Scanner Name     | IP Address   | DNS Name                 | Model Number
-|
-|-----------------|--------------|--------------------------|---------------
-| Front Office Scanner| https://172.27.56.30/ | Brother ADS-2500We |
+| Scanner Name    | IP Address   | DNS Name                  | Model Number  |
+-----------------|--------------|---------------------------|---------------|
+| Front Office Scanner| https://172.27.56.30/ |                      | Brother ADS-2500We |
 
 ## Scanner Troubleshooting
 
