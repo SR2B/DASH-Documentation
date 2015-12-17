@@ -44,7 +44,7 @@ When the part comes in, install it and return the empty cartridge to Brenda. We 
 
 
 | Printer Name    | IP Address   | DNS Name                  | Model Number  |
-|-----------------|--------------|---------------------------|---------------|
+-----------------|--------------|---------------------------|---------------|
 | Copy Storage Xerox| https://172.27.56.7/ | copier01.honors.e.uh.edu | Xerox WorkCentre 5855 |
 | Dean's Area Xerox | http://172.27.56.8/ | copier02.honors.e.uh.edu | Xerox WorkCentre 3615 |
 | South Gardens Xerox | http://172.27.219.1/ | 584-s15-sgwc-prntr.honors.e.uh.edu | Xerox WorkCenter 5755 |
@@ -55,7 +55,7 @@ When the part comes in, install it and return the empty cartridge to Brenda. We 
 
 |Scanner Name     | IP Address   | DNS Name                 | Model Number
 |
-|-----------------|--------------|--------------------------|---------------|
+|-----------------|--------------|--------------------------|---------------
 | Front Office Scanner| https://172.27.56.30/ | Brother ADS-2500We |
 
 ## Scanner Troubleshooting
